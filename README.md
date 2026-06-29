@@ -176,7 +176,7 @@ Please open an issue or a pull request if you find bugs, want to suggest feature
 or improve the documentation.
 
 📧 Contact
-Author: [TuoNome]
+Author: Ing. Bruno Zilli
 Repository: https://github.com/TuoNome/StructDXF
 
 Made with ❤️ and ☕
