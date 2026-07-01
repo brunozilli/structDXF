@@ -29,7 +29,7 @@
 # By using this software you agree that you do so at your own risk.
 # ============================================================
 # ============================================================
-# STRUCTURAL DXF PARSER - STATICS v16.2 FINAL CORRETTA
+# STRUCTURAL DXF PARSER - STATICS v16.3 FINAL CORRETTA
 # EN 1993-1-1 + EN 1990 | Class 1 sections | Beam-Column Method 2
 # Fixes: equilibrium sign, beam-column export keys, deformed image saving
 # ============================================================
